@@ -205,6 +205,11 @@ button {
     display: block;
 }
 
+.radio-text,
+.checkbox-text {
+    display: block;
+}
+
 .form-label,
 .radio-text,
 .checkbox-text {
